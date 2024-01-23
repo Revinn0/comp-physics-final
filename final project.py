@@ -1,6 +1,5 @@
 import numpy as np
 import scipy
-import matplotlib.pyplot as plt
 import turtle as trtl
 import scipy.constants as spc
 
